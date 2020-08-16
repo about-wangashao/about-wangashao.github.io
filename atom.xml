@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Cherry</title>
+  <title>WJPの小窝</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://wangashao.github.io/"/>
   <updated>2020-08-16T12:25:18.029Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://wangashao.github.io/</id>
   
   <author>
-    <name>布莱恩特科比酱</name>
+    <name>WangAShao</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/posts/3eeb.html"/>
-    <id>http://yoursite.com/posts/3eeb.html</id>
+    <link href="http://wangashao.github.io/posts/3eeb.html"/>
+    <id>http://wangashao.github.io/posts/3eeb.html</id>
     <published>2019-12-07T14:15:57.000Z</published>
     <updated>2020-08-16T12:25:18.029Z</updated>
     
@@ -36,10 +36,10 @@
     </summary>
     
     
-      <category term="hello-world" scheme="http://yoursite.com/categories/hello-world/"/>
+      <category term="hello-world" scheme="http://wangashao.github.io/categories/hello-world/"/>
     
     
-      <category term="hello-world" scheme="http://yoursite.com/tags/hello-world/"/>
+      <category term="hello-world" scheme="http://wangashao.github.io/tags/hello-world/"/>
     
   </entry>
   
